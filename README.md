@@ -25,4 +25,5 @@ Notes
 
 - Using Twilio Java SDK version 11.0.2 will cause an infinite loop.
 - Reverting to Twilio Java SDK version 10.9.2 will fix the issue.
+- Related ticket: https://github.com/twilio/twilio-java/issues/914
 
