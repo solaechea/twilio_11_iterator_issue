@@ -1,6 +1,8 @@
 # Twilio List Numbers (example)
 
-This small Maven project demonstrates listing incoming phone numbers using Twilio Java SDK 11.0.2.
+This small Maven project demonstrates an issue when iterating over a `ResourceSet<IncomingPhoneNumber>.iterator()` and using `next()` method using Twilio Java SDK 11.0.2.
+
+Ticket: twilio/twilio-java#914
 
 Usage
 
